@@ -1,0 +1,6 @@
+c:\users\nicolas.balas\documents\visual studio 2015\Projects\Tetris_V2\Tetris_V2\bin\Debug\Tetris_V2.exe.config
+c:\users\nicolas.balas\documents\visual studio 2015\Projects\Tetris_V2\Tetris_V2\bin\Debug\Tetris_V2.exe
+c:\users\nicolas.balas\documents\visual studio 2015\Projects\Tetris_V2\Tetris_V2\bin\Debug\Tetris_V2.pdb
+c:\users\nicolas.balas\documents\visual studio 2015\Projects\Tetris_V2\Tetris_V2\obj\Debug\Tetris_V2.csprojResolveAssemblyReference.cache
+c:\users\nicolas.balas\documents\visual studio 2015\Projects\Tetris_V2\Tetris_V2\obj\Debug\Tetris_V2.exe
+c:\users\nicolas.balas\documents\visual studio 2015\Projects\Tetris_V2\Tetris_V2\obj\Debug\Tetris_V2.pdb
